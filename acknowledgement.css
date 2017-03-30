@@ -1,0 +1,57 @@
+#text{
+	margin-top: -42%;
+	width: 60%;
+	height: 90%;
+	margin-left: 25%;
+	font-size: 1.5vw;
+}
+
+.par {
+	
+	font-size: 0.9vw;
+	line-height: 2em;
+
+}
+
+.proj {
+	width: 100%;
+	height: 50px;
+	padding-top: 3%;
+	margin-left: 8%;
+	margin-top: 2%;
+	background-color: #336666;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
+hr{
+	align: center;
+}
+
+.clear{
+	clear: both;
+	height: 17%;
+	margin-left: 25%;
+}
+
+#bottom_pics{
+	    margin-top: -13%;
+}
+
+
+
+
+

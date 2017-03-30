@@ -1,0 +1,43 @@
+#text{
+	margin-top: -28%;
+	width: 60%;
+	height: 40%;
+	margin-left: 25%;
+	font-size: 1.5vw;
+}
+
+.menu{
+	list-style-type: none;
+}
+
+.news{
+	text-decoration:none;
+	font-size: 1.3vw;
+}
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
+hr{
+	align: center;
+}
+
+.clear{
+	clear: both;
+	margin-left: 25%;
+
+}
+
+.clear_bottom{
+	clear:both;
+	margin-top: 25%;
+}
+
+
+

@@ -1,0 +1,65 @@
+#text{
+	margin-top: -28%;
+	width: 60%;
+	height: 50%;
+	position:relative;
+	margin-left: 20%;
+	font-size: 3vw;
+	font-weight: bold;
+}
+
+#text a{
+		text-decoration: none;
+		color: black;
+}
+
+h2 {
+	margin-left: 25%;
+    margin-top: -24%;
+}
+#journey{
+	width: 20%;
+    margin-left: 27%;
+    margin-top: 6%;
+}
+
+#journey p {
+	margin-left: 11%;
+}
+
+#return{
+	width: 20%;
+    margin-left: 38%;
+    margin-top: -25%;
+    float:left;
+}
+
+#return p {
+	margin-left: 11%;
+}
+
+.desc1{
+	font-size: 1vw;
+}
+
+#journey img {
+	margin-left: 10%;
+}
+
+#return img {
+	margin-left: 10%;
+}
+}
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
+hr{
+	align: center;
+}

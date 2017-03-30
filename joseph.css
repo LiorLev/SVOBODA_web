@@ -1,0 +1,57 @@
+#text1{
+	margin-top: -31%;
+	width: 60%;
+	height: 60%;
+	position:relative;
+	margin-left: 25%;
+	font-size: 1vw;
+}
+
+#text2{
+	margin-top: 3%;
+	width: 60%;
+	height: 60%;
+	position:relative;
+	margin-left: 25%;
+	font-size: 1vw;
+}
+
+.clear{
+	clear: both;
+	height: 4%;
+
+}
+#joseph_hr {
+    width: 65%;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+.diary_link{
+	margin-top: -2%;
+	font-size: 1.2vw;
+	list-style: none;
+	position:relative;
+	margin-left: 25%;
+	margin-bottom: 5%;
+
+}
+
+.bold{
+	font-weight: bold;
+	line-height: 2.5em;
+}
+}
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
+hr{
+	align: center;
+}

@@ -1,0 +1,48 @@
+#text{
+	margin-top: -28%;
+	width: 60%;
+	height: 50%;
+	position:relative;
+	margin-left: 20%;
+	font-size: 3vw;
+	font-weight: bold;
+	text-align: center;
+}
+
+#text a{
+		text-decoration: none;
+		color: black;
+}
+
+.titles {
+	padding-left: 5%;
+	padding-top: 2%;
+	background-image: url("images/texts_banner.jpg");
+	height: 10%;
+	width: 90%;
+	margin-left: 8%;
+	margin-bottom: 3%;
+
+}
+
+.titles li{
+	list-style: none;
+	font-weight: bold;
+	font-size: 2.3vw;
+
+}
+}
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
+hr{
+	align: center;
+}
+

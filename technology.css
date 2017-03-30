@@ -1,0 +1,48 @@
+#text{
+	margin-top: -32%;
+	width: 60%;
+	height: 60%;
+	position:relative;
+	margin-left: 25%;
+	font-size: 1.3vw;
+}
+
+.clear{
+	clear: both;
+	height: 4%;
+
+}
+#print_hr {
+    width: 100%;
+    margin-top: 3%;
+    margin-left: -1%;
+}
+
+.diary_link{
+	margin-top: -2%;
+	font-size: 1.2vw;
+	list-style: none;
+	position:relative;
+	margin-left: 25%;
+	margin-bottom: 5%;
+
+}
+
+.bold{
+	font-weight: bold;
+}
+}
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
+hr{
+	align: center;
+}
+

@@ -1,0 +1,53 @@
+#text{
+	margin-top: -31%;
+	width: 60%;
+	height: 50%;
+	position:relative;
+	margin-left: 20%;
+	font-size: 3vw;
+	font-weight: bold;
+}
+
+#text a{
+		text-decoration: none;
+		color: black;
+}
+
+.titles {
+	padding-left: 5%;
+	padding-top: 2%;
+	background-image: url("images/mid-banner.png");
+	height: 10%;
+	width: 90%;
+	margin-left: 8%;
+	margin-bottom: 3%;
+
+}
+
+.titles li{
+	list-style: none;
+	font-weight: bold;
+	font-size: 2vw;
+
+}
+
+.paragraph{
+	font-size: 1vw;
+	margin-left: 25%;
+	width: 60%;
+}
+
+}
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
+hr{
+	align: center;
+}
