@@ -1,9 +1,11 @@
 #text{
-	margin-top: -29%;
-	width: 60%;
-	height: 90%;
-	margin-left: 25%;
-	font-size: 1.5vw;
+	    margin-top: -29%;
+    width: 60%;
+    height: 23%;
+    margin-left: 25%;
+    font-size: 1.5vw;
+    margin-top: -220px;
+
 }
 
 .par {
@@ -25,7 +27,7 @@
 
 a{
 	text-decoration: none;
-	color: white;
+	color: black;
 }
 #cc{
 	text-align: center;
@@ -41,6 +43,16 @@ hr{
 	align: center;
 }
 
+#more{
+	   margin-left: 25%;
+
+}
+
+#more a{
+	text-decoration: underline;
+	float: left;
+	margin-right: 10px;
+}
 
 
 

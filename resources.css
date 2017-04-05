@@ -1,5 +1,5 @@
 #text{
-	margin-top: 3%;
+	margin-top: -6%;
 	width: 60%;
 	height: 40%;
 	margin-left: 25%;
@@ -56,17 +56,17 @@ hr{
 }
 
 #images_button{
-	background-color: #F68F84;
-    width: 65%;
-    height: 50%;
+	    background-color: #F68F84;
+    width: 5%;
+    /* height: 1%; */
     padding-left: 25%;
-    padding-top: 15%;
+    padding-top: 7%;
     margin-top: 2%;
-    margin-left: 2%;
+    /* margin-left: 2%; */
 }
 
 #top{
-	    margin-top: 35%;
+    margin-top: -17%;
     width: 12%;
     height: 11%;
     margin-left: 25%;
@@ -76,6 +76,9 @@ hr{
 	text-decoration: none;
 	color: black;
 
+
 }
 
-
+h5{
+	margin-bottom: 5px;
+}
